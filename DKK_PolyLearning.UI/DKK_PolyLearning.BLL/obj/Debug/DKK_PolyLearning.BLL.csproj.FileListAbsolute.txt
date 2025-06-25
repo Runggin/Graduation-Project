@@ -1,0 +1,2 @@
+C:\Đồ án tốt nghiệp\DKK_PolyLearning.UI\DKK_PolyLearning.BLL\obj\Debug\DKK_PolyLearning.BLL.csproj.AssemblyReference.cache
+C:\Đồ án tốt nghiệp\DKK_PolyLearning.UI\DKK_PolyLearning.BLL\obj\Debug\DKK_PolyLearning.BLL.csproj.CoreCompileInputs.cache
