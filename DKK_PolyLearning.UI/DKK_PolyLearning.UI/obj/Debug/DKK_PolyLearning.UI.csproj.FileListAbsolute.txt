@@ -2,3 +2,24 @@ C:\Đồ án tốt nghiệp\DKK_PolyLearning.UI\DKK_PolyLearning.UI\obj\Debug\DK
 C:\Đồ án tốt nghiệp\DKK_PolyLearning.UI\DKK_PolyLearning.UI\obj\Debug\DKK_PolyLearning.UI.Properties.Resources.resources
 C:\Đồ án tốt nghiệp\DKK_PolyLearning.UI\DKK_PolyLearning.UI\obj\Debug\DKK_PolyLearning.UI.csproj.GenerateResource.cache
 C:\Đồ án tốt nghiệp\DKK_PolyLearning.UI\DKK_PolyLearning.UI\obj\Debug\DKK_PolyLearning.UI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.UI\bin\Debug\DKK_PolyLearning.UI.exe.config
+C:\Users\Admin\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.UI\bin\Debug\DKK_PolyLearning.UI.exe
+C:\Users\Admin\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.UI\bin\Debug\DKK_PolyLearning.UI.pdb
+C:\Users\Admin\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.UI\bin\Debug\DKK_PolyLearning.BLL.dll
+C:\Users\Admin\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.UI\bin\Debug\DKK_PolyLearning.DAL.dll
+C:\Users\Admin\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.UI\bin\Debug\DKK_PolyLearning.DTO.dll
+C:\Users\Admin\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.UI\bin\Debug\DKK_PolyLearning.BLL.pdb
+C:\Users\Admin\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.UI\bin\Debug\DKK_PolyLearning.BLL.dll.config
+C:\Users\Admin\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.UI\bin\Debug\DKK_PolyLearning.DAL.pdb
+C:\Users\Admin\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.UI\bin\Debug\DKK_PolyLearning.DAL.dll.config
+C:\Users\Admin\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.UI\bin\Debug\DKK_PolyLearning.DTO.pdb
+C:\Users\Admin\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.UI\bin\Debug\DKK_PolyLearning.DTO.dll.config
+C:\Users\Admin\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.UI\obj\Debug\DKK_PolyLearning.UI.csproj.AssemblyReference.cache
+C:\Users\Admin\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.UI\obj\Debug\DKK_PolyLearning.UI.Form1.resources
+C:\Users\Admin\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.UI\obj\Debug\DKK_PolyLearning.UI.Properties.Resources.resources
+C:\Users\Admin\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.UI\obj\Debug\DKK_PolyLearning.UI.csproj.GenerateResource.cache
+C:\Users\Admin\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.UI\obj\Debug\DKK_PolyLearning.UI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.UI\obj\Debug\DKK_Poly.91CBB617.Up2Date
+C:\Users\Admin\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.UI\obj\Debug\DKK_PolyLearning.UI.exe
+C:\Users\Admin\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.UI\obj\Debug\DKK_PolyLearning.UI.pdb
+C:\Users\Admin\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.UI\obj\Debug\DKK_PolyLearning.UI.exe.config
