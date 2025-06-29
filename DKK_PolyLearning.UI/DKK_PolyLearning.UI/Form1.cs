@@ -36,5 +36,15 @@ namespace DKK_PolyLearning.UI
         {
 
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click_3(object sender, EventArgs e)
+        {
+
+        }
     }
 }
