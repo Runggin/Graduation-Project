@@ -14,3 +14,10 @@ C:\Users\rungg\Source\Repos\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearn
 C:\Users\rungg\Source\Repos\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.DTO\obj\Debug\DKK_PolyLearning.DTO.csproj.CoreCompileInputs.cache
 C:\Users\rungg\Source\Repos\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.DTO\obj\Debug\DKK_PolyLearning.DTO.dll
 C:\Users\rungg\Source\Repos\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.DTO\obj\Debug\DKK_PolyLearning.DTO.pdb
+E:\Đồ án tốt nghiệp\Graduation-Project-main (1)\Graduation-Project-main\DKK_PolyLearning.UI\DKK_PolyLearning.DTO\bin\Debug\DKK_PolyLearning.DTO.dll.config
+E:\Đồ án tốt nghiệp\Graduation-Project-main (1)\Graduation-Project-main\DKK_PolyLearning.UI\DKK_PolyLearning.DTO\bin\Debug\DKK_PolyLearning.DTO.dll
+E:\Đồ án tốt nghiệp\Graduation-Project-main (1)\Graduation-Project-main\DKK_PolyLearning.UI\DKK_PolyLearning.DTO\bin\Debug\DKK_PolyLearning.DTO.pdb
+E:\Đồ án tốt nghiệp\Graduation-Project-main (1)\Graduation-Project-main\DKK_PolyLearning.UI\DKK_PolyLearning.DTO\obj\Debug\DKK_PolyLearning.DTO.csproj.AssemblyReference.cache
+E:\Đồ án tốt nghiệp\Graduation-Project-main (1)\Graduation-Project-main\DKK_PolyLearning.UI\DKK_PolyLearning.DTO\obj\Debug\DKK_PolyLearning.DTO.csproj.CoreCompileInputs.cache
+E:\Đồ án tốt nghiệp\Graduation-Project-main (1)\Graduation-Project-main\DKK_PolyLearning.UI\DKK_PolyLearning.DTO\obj\Debug\DKK_PolyLearning.DTO.dll
+E:\Đồ án tốt nghiệp\Graduation-Project-main (1)\Graduation-Project-main\DKK_PolyLearning.UI\DKK_PolyLearning.DTO\obj\Debug\DKK_PolyLearning.DTO.pdb

@@ -28,3 +28,17 @@ C:\Users\rungg\Source\Repos\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearn
 C:\Users\rungg\Source\Repos\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.BLL\obj\Debug\DKK_Poly.A7906AAC.Up2Date
 C:\Users\rungg\Source\Repos\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.BLL\obj\Debug\DKK_PolyLearning.BLL.dll
 C:\Users\rungg\Source\Repos\Graduation-Project\DKK_PolyLearning.UI\DKK_PolyLearning.BLL\obj\Debug\DKK_PolyLearning.BLL.pdb
+E:\Đồ án tốt nghiệp\Graduation-Project-main (1)\Graduation-Project-main\DKK_PolyLearning.UI\DKK_PolyLearning.BLL\bin\Debug\DKK_PolyLearning.BLL.dll.config
+E:\Đồ án tốt nghiệp\Graduation-Project-main (1)\Graduation-Project-main\DKK_PolyLearning.UI\DKK_PolyLearning.BLL\bin\Debug\DKK_PolyLearning.BLL.dll
+E:\Đồ án tốt nghiệp\Graduation-Project-main (1)\Graduation-Project-main\DKK_PolyLearning.UI\DKK_PolyLearning.BLL\bin\Debug\DKK_PolyLearning.BLL.pdb
+E:\Đồ án tốt nghiệp\Graduation-Project-main (1)\Graduation-Project-main\DKK_PolyLearning.UI\DKK_PolyLearning.BLL\bin\Debug\DKK_PolyLearning.DAL.dll
+E:\Đồ án tốt nghiệp\Graduation-Project-main (1)\Graduation-Project-main\DKK_PolyLearning.UI\DKK_PolyLearning.BLL\bin\Debug\DKK_PolyLearning.DTO.dll
+E:\Đồ án tốt nghiệp\Graduation-Project-main (1)\Graduation-Project-main\DKK_PolyLearning.UI\DKK_PolyLearning.BLL\bin\Debug\DKK_PolyLearning.DAL.pdb
+E:\Đồ án tốt nghiệp\Graduation-Project-main (1)\Graduation-Project-main\DKK_PolyLearning.UI\DKK_PolyLearning.BLL\bin\Debug\DKK_PolyLearning.DAL.dll.config
+E:\Đồ án tốt nghiệp\Graduation-Project-main (1)\Graduation-Project-main\DKK_PolyLearning.UI\DKK_PolyLearning.BLL\bin\Debug\DKK_PolyLearning.DTO.pdb
+E:\Đồ án tốt nghiệp\Graduation-Project-main (1)\Graduation-Project-main\DKK_PolyLearning.UI\DKK_PolyLearning.BLL\bin\Debug\DKK_PolyLearning.DTO.dll.config
+E:\Đồ án tốt nghiệp\Graduation-Project-main (1)\Graduation-Project-main\DKK_PolyLearning.UI\DKK_PolyLearning.BLL\obj\Debug\DKK_PolyLearning.BLL.csproj.AssemblyReference.cache
+E:\Đồ án tốt nghiệp\Graduation-Project-main (1)\Graduation-Project-main\DKK_PolyLearning.UI\DKK_PolyLearning.BLL\obj\Debug\DKK_PolyLearning.BLL.csproj.CoreCompileInputs.cache
+E:\Đồ án tốt nghiệp\Graduation-Project-main (1)\Graduation-Project-main\DKK_PolyLearning.UI\DKK_PolyLearning.BLL\obj\Debug\DKK_Poly.A7906AAC.Up2Date
+E:\Đồ án tốt nghiệp\Graduation-Project-main (1)\Graduation-Project-main\DKK_PolyLearning.UI\DKK_PolyLearning.BLL\obj\Debug\DKK_PolyLearning.BLL.dll
+E:\Đồ án tốt nghiệp\Graduation-Project-main (1)\Graduation-Project-main\DKK_PolyLearning.UI\DKK_PolyLearning.BLL\obj\Debug\DKK_PolyLearning.BLL.pdb

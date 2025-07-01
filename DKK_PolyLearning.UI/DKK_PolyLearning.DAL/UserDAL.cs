@@ -1,28 +1,60 @@
-﻿using System.Data.SqlClient;
+﻿using System;
+using System.Data.SqlClient;
 using DKK_PolyLearning.DTO;
 
 namespace DKK_PolyLearning.DAL
 {
     public class UserDAL
     {
-        private readonly string connectionString = "Data Source=maycuabo;Initial Catalog=DKK_PolyLearning;Integrated Security=True;Trust Server Certificate=True";
+        private readonly string connectionString = "Data Source=phamkhoa;Initial Catalog=DKK_Education;Integrated Security=True;";
 
-        public bool RegisterUser(User user)
+
+        public UserDAL()
         {
-            using (SqlConnection conn = new SqlConnection(connectionString))
-            {
-                conn.Open();
-                string query = "INSERT INTO Users (Username, Password, FullName, Email, Role) VALUES (@Username, @Password, @FullName, @Email, @Role)";
-                using (SqlCommand cmd = new SqlCommand(query, conn))
-                {
-                    cmd.Parameters.AddWithValue("@Username", user.Username);
-                    cmd.Parameters.AddWithValue("@Password", user.Password);
-                    cmd.Parameters.AddWithValue("@FullName", user.FullName);
-                    cmd.Parameters.AddWithValue("@Email", user.Email);
-                    cmd.Parameters.AddWithValue("@Role", user.Role);
-                    return cmd.ExecuteNonQuery() > 0;
-                }
-            }
+
         }
+
+        public User loginUser(string TenDN, string MatKhau)
+        {
+            User user = null;
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                try
+                {
+                    connection.Open();
+
+                    string query = "SELECT TenDN, MatKhau, VaiTro FROM TaiKhoan WHERE TenDN = @TenDN AND MatKhau = @MatKhau";
+                    using (SqlCommand command = new SqlCommand(query, connection))
+                    {
+                        command.Parameters.AddWithValue("@TenDN", TenDN);
+                        command.Parameters.AddWithValue("@MatKhau", MatKhau);
+                        using (SqlDataReader reader = command.ExecuteReader())
+                        {
+                            if (reader.Read())
+                            {
+                                user = new User
+                                {
+                                    TenDN = reader["TenDN"].ToString(),
+                                    MatKhau = reader["MatKhau"].ToString(), // Không nên trả về mật khẩu từ DB
+                                    VaiTro = reader["VaiTro"].ToString()
+                                };
+                            }
+                        }
+                    }
+                }
+                catch (SqlException ex)
+                {
+                    System.Diagnostics.Debug.WriteLine($"Lỗi đăng nhập:  {ex.Message}");
+                    user = null;
+                }
+                catch (Exception ex)
+                {
+                    System.Diagnostics.Debug.WriteLine($"Lỗi không xác định khi đăng nhập: {ex.Message}");
+                }
+
+            }
+            return user;
+        }
+
     }
 }
