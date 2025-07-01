@@ -46,5 +46,10 @@ namespace DKK_PolyLearning.UI
         {
 
         }
+
+        private void txt_TK_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
